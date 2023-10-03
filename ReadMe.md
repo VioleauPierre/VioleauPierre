@@ -9,10 +9,8 @@ I’m currently working on [Training_session_interval_detection](https://github.
 
 
 ## 🌐 Socials:
-[[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/pierre-violeau-b499b9153/)
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
 ---
 [![](https://visitcount.itsvg.in/api?id=VioleauPierre&icon=0&color=0)](https://visitcount.itsvg.in)
 
