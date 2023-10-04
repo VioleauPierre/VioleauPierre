@@ -1,7 +1,7 @@
 
 ![Bannière](https://github.com/VioleauPierre/VioleauPierre/assets/129098391/1b8ab90d-6dff-4fc9-b07e-c9f2e368c3b9)
 # 💫 About Me:
-Data scientist passionate by sport, improving my skills with projectS based on sport data.
+Data scientist passionate by sport, improving my skills with projects based on sport data.
 
 I’m currently working on [Training_session_interval_detection](https://github.com/VioleauPierre/Training_session_interval_detection)
 
