@@ -3,7 +3,7 @@
 # 💫 About Me:
 Data scientist passionate by sport, improving my skills with projects based on sport data.
 
-I’m currently working on [Training_session_interval_detection](https://github.com/VioleauPierre/Training_session_interval_detection)
+I’m currently working on [Grand_Prix_Duathlon_analysis](https://github.com/VioleauPierre/Grand_Prix_Duathlon_analysis)
 
 
 # 💻 Tech Stack:
