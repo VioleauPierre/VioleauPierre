@@ -3,7 +3,7 @@
 # 💫 About Me:
 Data scientist passionate by sport, improving my skills with projects based on sport data.
 
-I’m currently working on [Grand_Prix_Duathlon_analysis](https://github.com/VioleauPierre/Grand_Prix_Duathlon_analysis)
+I’m currently working on [Training State Detection Using Heart Rate Prediction](https://github.com/VioleauPierre/Overtraining-state-detection-using-heart-rate-prediction)
 
 
 # 💻 Tech Stack:
